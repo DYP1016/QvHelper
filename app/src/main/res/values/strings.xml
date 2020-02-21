@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Qv 考勤助手</string>
+    <string name="DM_Add_Device_Scan">扫描二维码名片</string>
+    <string name="CL_Cancel">取消</string>
+    <string name="key_scanner_code">扫描二维码名片</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

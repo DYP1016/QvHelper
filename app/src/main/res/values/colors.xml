@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6700</color>
+    <color name="colorPrimaryDark">#ff6700</color>
+    <color name="colorAccent">#ff6700</color>
+
+    <color name="main_ui_color_white">#f4f4f4</color>
+    <color name="progressBarBg">@android:color/darker_gray</color>
+
+</resources>
